@@ -16,7 +16,16 @@ For example, you could get features of an image by calling `FeatureExtractor.inf
 
 You can also collect any kind of data, construct them into an array of numbers and feed them to KNNClassifier. Check out this [example](/docs/knnclassifier-posenet) that uses KNNClassifier to classify data from [PoseNet](/docs/PoseNet) model.
 
+## How KNN Works
+If you are not familiar with KNN algorithm, you could check out **Lesson 3: KNN Classifier** from our curated curriculum **Basics of Machine Learning with ml5.js**. You will be able to understand KNN step by step.
+
+⏩ [Take the course!](http://localhost:8000/learnml_knn)
+<center>
+    <img style="display:block;" alt="Illustration of KNN Classifer course" src="_media/reference__howitworks-knn-classifier.png">
+</center>
+
 ## Quickstart
+
 
 ```js
 // Create a KNN classifier
@@ -36,6 +45,15 @@ knnClassifier.classify(features, (err, result) => {
   console.log(result); // result.label is the predicted label
 });
 ```
+💡 If you struggle to understand the concepts such as **feature**, **dataset**, and **label**, you could check out **Lesson 1: What are feature, dataset, and label?** from our curated curriculum **Basics of Machine Learning with ml5.js**. ⏩ [Take the course!](http://localhost:8000/learnml_feature)
+
+## Code KNN Step by Step
+If you find **Quickstart** hard to follow, you could check out **Lesson 4: Your first machine learning model** from our curated curriculum **Basics of Machine Learning with ml5.js**. This course helps you build a KNN classifier from scratch.
+
+⏩ [Take the course!](http://localhost:8000/learnml_code)
+<center>
+    <img style="display:block;" alt="Illustration of KNN coding course" src="_media/reference__code-knn-classifier.png">
+</center>
 
 
 ## Usage

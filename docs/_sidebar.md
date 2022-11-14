@@ -34,26 +34,39 @@
     * [KNNClassifier](/reference/knn-classifier.md)
     * [kmeans](/reference/kmeans.md)
   * **Image** 🖼
-    * [ImageClassifier](/reference/image-classifier.md)
-    * [PoseNet](/reference/posenet.md)
-    * [BodyPix](/reference/bodypix.md)
-    * [UNET](/reference/unet.md)
-    * [Handpose](/reference/handpose.md)
-    * [Facemesh](/reference/facemesh.md)
-    * [FaceApi](/reference/face-api.md)
-    * [StyleTransfer](/reference/style-transfer.md)
-    * [pix2pix](/reference/pix2pix.md)
-    * [CVAE](/reference/cvae.md)
-    * [DCGAN](/reference/dcgan.md)
-    * [SketchRNN](/reference/sketchrnn.md)
-    * [ObjectDetector](/reference/object-detector.md)
+    * **Pose Estimation**
+      * [PoseNet](/reference/posenet.md)
+      * [MoveNet](https://github.com/tensorflow/tfjs-models/tree/master/pose-detection/src/movenet)
+      * [BlazePose](https://github.com/tensorflow/tfjs-models/tree/master/pose-detection/src/blazepose_tfjs)
+    * **Body Segmentation**
+      * [BodyPix](/reference/bodypix.md)
+      * [MediaPipeSelfieSegmentation](https://google.github.io/mediapipe/solutions/selfie_segmentation.html)
+    * **Face Detection**
+      * [Facemesh](/reference/facemesh.md)
+      * [FaceApi](/reference/face-api.md)
+    * **Hand Detection**
+      * [Handpose](/reference/handpose.md)
+    * **Image Generation**
+      * [StyleTransfer](/reference/style-transfer.md)
+      * [pix2pix](/reference/pix2pix.md)
+      * [CVAE](/reference/cvae.md)
+      * [DCGAN](/reference/dcgan.md)
+      * [SketchRNN](/reference/sketchrnn.md)
+    * **Object Detection**
+      * [UNET](/reference/unet.md)
+      * [ObjectDetector](/reference/object-detector.md)
+    * **Image Classification**
+      * [ImageClassifier](/reference/image-classifier.md)
   * **Sound** 📻
-    * [SoundClassification](/reference/sound-classifier.md)
-    * [PitchDetection](/reference/pitch-detection.md)
+    * [Sound Classification](/reference/sound-classifier.md)
+    * [Pitch Detection](/reference/pitch-detection.md)
   * **Text** 📕
-    * [CharRNN](/reference/charrnn.md)
-    * [Sentiment](/reference/sentiment.md)
-    * [Word2Vec](/reference/word2vec.md)
+    * **Text Generation**
+      * [CharRNN](/reference/charrnn.md)
+    * **Text Emotion Detection**
+      * [Sentiment](/reference/sentiment.md)
+    * **Word To Vector Mapping**
+      * [Word2Vec](/reference/word2vec.md)
   * **Utils** 🛠
     * [utils](/reference/utils.md)
 
