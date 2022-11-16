@@ -17,9 +17,7 @@ For example, you could get features of an image by calling `FeatureExtractor.inf
 You can also collect any kind of data, construct them into an array of numbers and feed them to KNNClassifier. Check out this [example](/docs/knnclassifier-posenet) that uses KNNClassifier to classify data from [PoseNet](/docs/PoseNet) model.
 
 ## How KNN Works
-If you are not familiar with KNN algorithm, you could check out **Lesson 3: KNN Classifier** from our curated curriculum **Basics of Machine Learning with ml5.js**. You will be able to understand KNN step by step.
-
-⏩ [Take the course!](https://ml5plus8000.netlify.app/learnml_knn)
+If you are not familiar with KNN algorithm, you could check out ⏩ [Lesson 3: KNN Classifier](https://ml5plus8000.netlify.app/learnml_knn) from our curated curriculum [Basics of Machine Learning with ml5.js](https://ml5plus8000.netlify.app/learnml_home). You will be able to understand KNN step by step.
 <center>
     <img style="display:block;" alt="Illustration of KNN Classifer course" src="_media/reference__howitworks-knn-classifier.png">
 </center>
@@ -45,12 +43,10 @@ knnClassifier.classify(features, (err, result) => {
   console.log(result); // result.label is the predicted label
 });
 ```
-💡 If you struggle to understand the concepts such as **feature**, **dataset**, and **label**, you could check out **Lesson 1: What are feature, dataset, and label?** from our curated curriculum **Basics of Machine Learning with ml5.js**. ⏩ [Take the course!](https://ml5plus8000.netlify.app/learnml_feature)
+💡 If you would like to learn more about concepts such as **feature**, **dataset**, and **label**, you could check out ⏩ [Lesson 1: What are feature, dataset, and label?](https://ml5plus8000.netlify.app/learnml_feature) from our curated curriculum [Basics of Machine Learning with ml5.js](https://ml5plus8000.netlify.app/learnml_home).
 
 ## Code KNN Step by Step
-If you find **Quickstart** hard to follow, you could check out **Lesson 4: Your first machine learning model** from our curated curriculum **Basics of Machine Learning with ml5.js**. This course helps you build a KNN classifier from scratch.
-
-⏩ [Take the course!](https://ml5plus8000.netlify.app/learnml_code)
+If you are interested in applying codes within **Quickstart** to your project, you could check out ⏩ [Lesson 4: Your first machine learning model](https://ml5plus8000.netlify.app/learnml_code) from our curated curriculum [Basics of Machine Learning with ml5.js](https://ml5plus8000.netlify.app/learnml_home). This lesson helps you build a KNN classifier from scratch.
 <center>
     <img style="display:block;" alt="Illustration of KNN coding course" src="_media/reference__code-knn-classifier.png">
 </center>

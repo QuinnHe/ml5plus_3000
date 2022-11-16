@@ -34,9 +34,7 @@ poseNet.on('pose', (results) => {
 ```
 
 ## Code PoseNet Step by Step
-If you find **Quickstart** hard to follow, you could check out **Lesson 1: Paint using eyes with PoseNet** from our curated curriculum **Code ml5.js Models Step by Step**. This course helps you build a PoseNet model from scratch.
-
-⏩ [Take the course!](https://ml5plus8000.netlify.app/learnmodel_posenet)
+If you are interested in applying codes within **Quickstart** to your project, you could check out ⏩ [Lesson 1: Paint using eyes with PoseNet](https://ml5plus8000.netlify.app/learnmodel_posenet) from our curated curriculum [Code ml5.js Models Step by Step](https://ml5plus8000.netlify.app/learnmodel_home). This lesson helps you build a PoseNet model from scratch..
 <center>
     <img style="display:block;" alt="Illustration of KNN coding course" src="_media/reference__code-posenet.png">
 </center>
